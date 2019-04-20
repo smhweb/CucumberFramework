@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.577804">
+<testcase classname="Find UsbFlashDrives in CustomInk" name="verify user views USB flash drives" time="10.577804">
+<system-out><![CDATA[Given Buyer at home page of CustomInk.......................................passed
+When Buyer mouse over PRODUCTS tab..........................................passed
+And Buyer selects Tech Accessories from dropdown............................passed
+And Buyer selects USB Flash Drives display..................................passed
+And Buyer prints Drivers Displayed..........................................passed
+Then Buyer prints page title................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
